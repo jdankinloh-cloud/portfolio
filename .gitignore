@@ -1,0 +1,13 @@
+node_modules/
+.env
+*.db
+*.db-shm
+*.db-wal
+_hls_segs_*/
+*.session-journal
+*-test.html
+*-test.js
+test-*.html
+test-*.js
+line740.txt
+*.mp4

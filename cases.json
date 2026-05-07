@@ -1,0 +1,54 @@
+[
+  {
+    "id": "gam",
+    "title": "GAM",
+    "description": "A comprehensive digital platform redesign and development for a leading gaming company.",
+    "industry": "Gaming",
+    "published": "March 2025",
+    "projectNumber": "01",
+    "liveSiteUrl": "https://gam.com",
+    "liveSiteDisplay": "GAM.COM",
+    "imageUrl": "/images/1778088742148-253949762.avif",
+    "iconImageUrl": "/images/1778088756675-124010831.avif",
+    "deliverables": [
+      "UX/UI Design",
+      "Development",
+      "Branding"
+    ],
+    "tags": []
+  },
+  {
+    "id": "pharsalus",
+    "slug": "Pharsalus",
+    "title": "Pharsalus",
+    "description": "Enterprise SaaS platform with advanced analytics and real-time data visualization.",
+    "projectNumber": "02",
+    "industry": "SaaS",
+    "published": "January 2025",
+    "imageUrl": "/images/1778189773699-856076264.avif",
+    "iconImageUrl": "/images/1778189749733-437062182.avif",
+    "deliverables": [
+      "Product Design",
+      "Frontend",
+      "Backend"
+    ],
+    "tags": []
+  },
+  {
+    "id": "tsb",
+    "slug": "TSB",
+    "title": "TSB",
+    "description": "Financial technology platform with seamless payment integration and user experience.",
+    "projectNumber": "03",
+    "industry": "Fintech",
+    "published": "November 2024",
+    "imageUrl": "/images/1778189783757-241731708.avif",
+    "iconImageUrl": "/images/1778189827911-139349672.avif",
+    "deliverables": [
+      "UX Research",
+      "Design System",
+      "Development"
+    ],
+    "tags": []
+  }
+]
