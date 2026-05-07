@@ -12,7 +12,7 @@ const { v4: uuidv4 } = require('uuid');
 const cookieParser = require('cookie-parser');
 
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 const CASES_FILE = path.join(__dirname, 'cases.json');
 const IMAGES_DIR = path.join(__dirname, 'images');
 const LOTTIE_DIR = path.join(__dirname, 'lottie');
